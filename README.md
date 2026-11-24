@@ -1,5 +1,5 @@
 # gta6fileWiki ⚒️
-www.gta6file.com
+具体可以参考：www.gta6file.com
 > 带 AI 内容工作流的游戏 wiki 模板——广告收入 100% 归你。
 > 开源、Cloudflare Pages 原生优化、零成本免费部署上线。
 > fork 后 5 条命令 + 一次点选部署上线;唯一必要开销是一个域名——不会编程也走得完(双手册带路)。
@@ -330,3 +330,4 @@ Tech stack: Astro 7 (static output) + Tailwind CSS 3 + MDX 8 + astro-icon/lucide
 - **三层分离(代码/配置/内容)是核心架构决策**——fork 之后还能持续合并上游更新的根基。**Three-layer separation (code / config / content) is the core architectural decision** — it's what keeps forks mergeable upstream. See [docs/PRD.md](docs/PRD.md).
 - 可选功能(广告/评论/统计)默认关闭、env 门控——新 fork 零 JS、零 cookie,保住 Lighthouse 4×100 契约。**Optional features are env-gated and off by default** — a fresh fork ships zero-JS and zero-cookie.
 - demo 游戏「gta6file Quest」是刻意虚构的,fork 后整体替换;项目官网与文档中心页面会自动从 fork 中移除(手册源码保留在 `docs/handbook/`)。**The demo game is fictional by design**; the project landing + docs pages are auto-removed for forks (handbook sources stay in `docs/handbook/`).
+具体的效果参考：https://www.gta6file.com
