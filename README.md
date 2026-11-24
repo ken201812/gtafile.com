@@ -1,5 +1,5 @@
 # gta6fileWiki ⚒️
-
+www.gta6file.com
 > 带 AI 内容工作流的游戏 wiki 模板——广告收入 100% 归你。
 > 开源、Cloudflare Pages 原生优化、零成本免费部署上线。
 > fork 后 5 条命令 + 一次点选部署上线;唯一必要开销是一个域名——不会编程也走得完(双手册带路)。
